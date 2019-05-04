@@ -1,0 +1,15 @@
+
+
+Training dataset <- data.train
+Test dataset <- data.test
+Merged dataset <- data.all
+
+Variable names
+Accelerometer
+Gyroscope
+Magnitude
+Frequencydomain
+TimeDomain
+
+Final dataset = data.new.txt
+
